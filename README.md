@@ -14,7 +14,7 @@ Java Development Kit (JDK) installed on your machine.
 
 
 # Running the Game
-1. Clone the repository: git clone https://github.com/yourusername/guessing-game-java.git
+1. Clone the repository: git clone https://github.com/Deathbringer98/guessing-game-java.git
 
 2. Compile and run the Java program: javac GuessingGame.java
                                      java GuessingGame
